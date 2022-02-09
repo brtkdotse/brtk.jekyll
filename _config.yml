@@ -16,12 +16,10 @@
 title: Bartek Tatkowski
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I’m Bartek Tatkowski, a monostack developer focusing on Azure, Blazor, C# and .NET.
 twitter_username: brtkdotse
 github_username: brtkdotse
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: false
 
 # Build settings
@@ -78,7 +76,6 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://github.com/brtkdotse"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
