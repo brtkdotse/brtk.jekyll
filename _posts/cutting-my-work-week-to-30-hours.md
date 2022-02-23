@@ -1,7 +1,7 @@
 ---
 title: "Cutting my work week to 30 hours"
 categories:
-  - blog
+  - Blog
 tags:
   - worklife
 ---
