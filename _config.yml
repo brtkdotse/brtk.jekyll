@@ -21,6 +21,7 @@ twitter_username: brtkdotse
 github_username: brtkdotse
 minimal_mistakes_skin: dark
 search: false
+og_image: /assets/images/brtkdotse.jpg
 
 # Build settings
 markdown: kramdown

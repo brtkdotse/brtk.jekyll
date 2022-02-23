@@ -1,5 +1,6 @@
 ---
 title: "Cutting my work week to 30 hours"
+header.image: 2022-02-23-cutting-my-work-week-to-30-hours.jpg
 ---
 
 A few weeks back I celebrated the start of my 5:th year as a self-employed contractor. It's been a wild ride and I kick myself on a regular basis for not getting into it earlier. One of the best aspects of being a contractor is that most of the rules and ceremony around being a salaried employee don't apply to me, and in general I'm given way more flexibility than if I was employed directly by the customer.
