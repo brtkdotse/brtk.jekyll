@@ -10,13 +10,13 @@ I’m also a pretty decent father and husband, make-do entrepreneur, alright pod
 ## Projects
 
 ### Silly projects & domains
-[https://SamVimesBootsTheory.com](SamVimesBootsTheory.com) – I found myself referencing a quote from a Terry Pratchett book so often I bought the domain.
+[SamVimesBootsTheory.com](https://SamVimesBootsTheory.com) – I found myself referencing a quote from a Terry Pratchett book so often I bought the domain.
 
-[https://Monokrom.se](Monokrom.se) – A nice sounding domain name for future use
+[Monokrom.se](https://Monokrom.se) – A nice sounding domain name for future use
 
-[https://StatligSkatt.se](StatligSkatt.se) – As a business owner I found myself googling for the state tax bracket level in Sweden fairly often. Up on it’s own domain it goes!
+[StatligSkatt.se](https://StatligSkatt.se) – As a business owner I found myself googling for the state tax bracket level in Sweden fairly often. Up on it’s own domain it goes!
 
-[https://Kodjobb.se](Kodjobb.se) – A small app I build to teach myself deploying .NET Core apps to vanilla Linux VPS’s
+[Kodjobb.se](https://Kodjobb.se – A small app I build to teach myself deploying .NET Core apps to vanilla Linux VPS’s
 
 ## Work with me
 
