@@ -16,7 +16,7 @@ I’m also a pretty decent father and husband, make-do entrepreneur, alright pod
 
 [StatligSkatt.se](https://StatligSkatt.se) – As a business owner I found myself googling for the state tax bracket level in Sweden fairly often. Up on it’s own domain it goes!
 
-[Kodjobb.se](https://Kodjobb.se – A small app I build to teach myself deploying .NET Core apps to vanilla Linux VPS’s
+[Kodjobb.se](https://Kodjobb.se) – A small app I build to teach myself deploying .NET Core apps to vanilla Linux VPS’s
 
 ## Work with me
 
