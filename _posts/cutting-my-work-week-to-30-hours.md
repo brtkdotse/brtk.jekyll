@@ -1,6 +1,5 @@
 ---
 title: "Cutting my work week to 30 hours"
-date: 2022-02-23
 categories:
   - blog
 tags:
