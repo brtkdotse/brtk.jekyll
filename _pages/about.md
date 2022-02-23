@@ -20,4 +20,4 @@ I’m also a pretty decent father and husband, make-do entrepreneur, alright pod
 
 ## Work with me
 
-I run a contracting business, BRTK Dev AB, where I help organization with .NET devlopment, training and coaching. If you want to work with me, [mailto:hello@brtk.se](get in touch!)
+I run a contracting business, BRTK Dev AB, where I help organization with .NET devlopment, training and coaching. If you want to work with me, [get in touch!](mailto:hello@brtk.se)
