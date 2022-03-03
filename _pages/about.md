@@ -18,6 +18,9 @@ I’m also a pretty decent father and husband, make-do entrepreneur, alright pod
 
 [Kodjobb.se](https://Kodjobb.se) – A small app I build to teach myself deploying .NET Core apps to vanilla Linux VPS’s
 
+[Swordle.se](https://swordle.se) – A Wordle clone in Swedish, built with Blazor.
+
+
 ## Work with me
 
 I run a contracting business, BRTK Dev AB, where I help organization with .NET devlopment, training and coaching. If you want to work with me, [get in touch!](mailto:hello@brtk.se)
