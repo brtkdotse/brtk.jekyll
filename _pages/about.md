@@ -20,6 +20,7 @@ I’m also a pretty decent father and husband, make-do entrepreneur, alright pod
 
 [Swordle.se](https://swordle.se) – A Wordle clone in Swedish, built with Blazor.
 
+[Dekalfabriken.se](https://dekalfabriken.se) - A sideproject of mine
 
 ## Work with me
 
