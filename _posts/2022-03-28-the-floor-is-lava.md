@@ -2,6 +2,8 @@
 title: "The floor is lava - GDPR is heating up"
 ---
 
+**Hello friend, thanks for stopping by! 👋 This article is still a work in progress. I talked about some of these points (in Swedish) on [Kodsnack 466](https://kodsnack.se/466/).**
+
 When I was 6, one of my favorite games was the rather boringly name _Don't touch the ground_. When I later learned the English name, _The floor is lava_, I was delighted at how the short English name succinctly captured the feeling of excitement, dread and safety in 4 simple words. The floor really was lava in my 7 year old mind, but at the same time I could take risks and make the big jumps since nothing terrible would happen if I slipped up.
 
 When I was 36, GDPR was introduced and after a few month of being absolutley terrified, companies quickly started playing _The Floor Is Lava_ - "Just click here and we'll take really good care of your personal data *wink* *wink*", "Your integrity is important to us, please accept this tracking cookie as it is essential to the site functioning". Just like I pretended that the floor was lava, the companies have paid lip service to the notion of privacy as dictated by GDPR.
